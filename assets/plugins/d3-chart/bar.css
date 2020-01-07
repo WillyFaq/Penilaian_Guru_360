@@ -1,0 +1,68 @@
+
+div#chart-nilai-perwakilan {
+  width: 100%;
+  /* 
+  background-color: #2F4A6D;
+   */
+  margin: 0 auto;
+}
+
+
+.bar {
+  /*fill: #80cbc4;*/
+}
+
+.bar_red {
+  fill: #DD5044;
+}
+
+/* text {
+  font-size: 12px;
+  fill: #fff;
+}
+
+path {
+  stroke: gray;
+}
+
+line {
+  stroke: gray;
+}
+
+line#limit {
+  stroke: #FED966;
+  stroke-width: 3;
+  stroke-dasharray: 3 6;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+
+.grid .tick line {
+  stroke: #9FAAAE;
+  stroke-opacity: 0.3;
+}
+
+text.divergence {
+  font-size: 14px;
+  fill: #2F4A6D;
+}
+
+text.value {
+  font-size: 14px;
+}
+
+text.title {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+text.label {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+text.source {
+  font-size: 10px;
+} */
